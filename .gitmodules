@@ -7,3 +7,9 @@
 [submodule "packages/lalomartins:template-helpers"]
 	path = packages/lalomartins:template-helpers
 	url = git@github.com:lalomartins/meteor-smart-template-helpers.git
+[submodule "packages/cbga:core"]
+	path = packages/cbga:core
+	url = git@github.com:lalomartins/cbga-core.git
+[submodule "packages/cbga:core-meteoric"]
+	path = packages/cbga:core-meteoric
+	url = git@github.com:lalomartins/cbga-core-meteoric.git
